@@ -1,6 +1,6 @@
 # EDR Ticket System
 
-This is a test assignment for the EDR team, representing a ticket management system. The project allows users to:
+This is a ticket management system tool. The project allows users to:
 
 - View a list of tickets.
 - Filter tickets by type and status.
