@@ -12,7 +12,7 @@ This is a ticket management system tool. The project allows users to:
 
 - React
 - TypeScript
-- CSS (or your styling method)
+- CSS
 
 ## Installation
 
